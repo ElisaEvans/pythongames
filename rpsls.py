@@ -87,7 +87,7 @@ while True:
         
     elif((choice == 3 and comp_choice == 2) or
          (choice == 3 and comp_choice == 4)):
-        print("Scisorrs wins =>", end = "")
+        print("Scissors wins =>", end = "")
         result = "Scissors"
         
     elif((choice == 4 and comp_choice == 2) or
